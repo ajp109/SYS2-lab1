@@ -8,7 +8,7 @@ struct IntVector {
 };
 
 int main(void) {
-  IntVector p;
+  struct IntVector p;
   
   p.x = -3;
   p.y = 1;
